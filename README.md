@@ -12,6 +12,22 @@ What makes GreenSorting unique is its **rewarding system**. Users can earn point
 
 ---
 
+# 🏆 Codeavour 6.0
+
+GreenSorting was created as our project for **Codeavour 6.0**, an international coding and AI competition.
+
+We took GreenSorting through every stage of the competition, progressing from the:
+
+**🌐 Online Phase → 🗺️ Regional Phase → 🇮🇩 National Phase → 🌍 Global Phase**
+
+Our team successfully advanced through the **online, regional, and national phases (where we got 2nd place)**, ultimately reaching the **global phase of Codeavour 6.0** with GreenSorting.
+
+This journey gave us the opportunity to develop our idea further, improve our prototype, and present our approach to using AI and technology to address real-world environmental challenges.
+
+> **From an idea to a prototype, and from the online phase all the way to the global phase — GreenSorting represents our journey in Codeavour 6.0.**
+
+---
+
 ## 🌱 The Idea Behind GreenSorting
 
 Many items that are thrown away still have value. GreenSorting aims to change the way people think about waste by encouraging them to:
@@ -254,9 +270,13 @@ By combining AI, hardware automation, recycling, and a reward system, GreenSorti
 ## 👥 Project
 
 **Project Name:** GreenSorting
+**Competition:** Codeavour 6.0
 **Category:** AI, Recycling & Sustainability
 **AI Platform:** PictoBlox
 **Hardware:** Arduino + Servo Motors
 **Prototype:** Acrylic Smart Recycling Box
 
-**#GreenSorting #Recycling #Sustainability #AI #PictoBlox #Arduino #ComputerVision #SmartRecycling**
+**Competition Journey:**
+🌐 Online → 🗺️ Regional → 🇮🇩 National → 🌍 Global
+
+**#GreenSorting #Codeavour6 #Recycling #Sustainability #AI #PictoBlox #Arduino #ComputerVision #SmartRecycling**
